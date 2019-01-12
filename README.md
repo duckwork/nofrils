@@ -1,5 +1,12 @@
 This is an extremely minimalist vim colorscheme (almost no syntax highlighting).
 
+This is my personal fork with customizations.
+
+Differences from upstream (all in nofrils-acme):
+- Change IncSearch and Search from green to yellow and up contrast
+- Lighten the CursorLine (and CursorLineNr) a notch
+- Flip TabLine and TabLineSel colors to better highlight the active tab
+
 To use:
 - `:colo nofrils-dark`
 - `:colo nofrils-light`
